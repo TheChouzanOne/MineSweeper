@@ -1,0 +1,143 @@
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\bin\Debug\MinesweeperTest.exe.config
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\bin\Debug\MinesweeperTest.exe
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\bin\Debug\MinesweeperTest.pdb
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\Cell.g.cs
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MainWindow.g.cs
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\App.g.cs
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.cache
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.lref
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\Cell.baml
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MainWindow.baml
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.g.resources
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.Properties.Resources.resources
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.csproj.GenerateResource.Cache
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.exe
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.pdb
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\bin\Debug\MinesweeperTest.exe.config
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.exe
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.pdb
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\bin\Debug\MinesweeperTest.exe
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\bin\Debug\MinesweeperTest.pdb
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\Cell.g.cs
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MainWindow.g.cs
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\App.g.cs
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.cache
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.lref
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\Cell.baml
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MainWindow.baml
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.g.resources
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.Properties.Resources.resources
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.csproj.GenerateResource.Cache
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\Minesweeper.g.cs
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\MinesweeperTest\obj\Debug\Minesweeper.baml
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\bin\Debug\MinesweeperTest.exe.config
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.exe
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.pdb
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\bin\Debug\MinesweeperTest.exe
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\bin\Debug\MinesweeperTest.pdb
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.csprojResolveAssemblyReference.cache
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\Cell.g.cs
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\MainWindow.g.cs
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\Menu.g.cs
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\Minesweeper.g.cs
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\App.g.cs
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.cache
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.lref
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\Cell.baml
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\MainWindow.baml
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\Menu.baml
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\Minesweeper.baml
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.g.resources
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.Properties.Resources.resources
+C:\Users\sergi\Desktop\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.csproj.GenerateResource.Cache
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\bin\Debug\MinesweeperTest.exe.config
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.exe
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.pdb
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\bin\Debug\MinesweeperTest.exe
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\bin\Debug\MinesweeperTest.pdb
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.csprojResolveAssemblyReference.cache
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\Cell.g.cs
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\MainWindow.g.cs
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\Menu.g.cs
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\Minesweeper.g.cs
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\App.g.cs
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.cache
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.lref
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\Cell.baml
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\MainWindow.baml
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\Menu.baml
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\Minesweeper.baml
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.g.resources
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.Properties.Resources.resources
+C:\Users\Anananan\Desktop\MinesweeperTest\MinesweeperTest\MinesweeperTest\obj\Debug\MinesweeperTest.csproj.GenerateResource.Cache
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\bin\Debug\MinesweeperTest.exe.config
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.exe
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.pdb
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\bin\Debug\MinesweeperTest.exe
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\bin\Debug\MinesweeperTest.pdb
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.csprojResolveAssemblyReference.cache
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Cell.g.cs
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MainWindow.g.cs
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Menu.g.cs
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Minesweeper.g.cs
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\App.g.cs
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.cache
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.lref
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Cell.baml
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MainWindow.baml
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Menu.baml
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Minesweeper.baml
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.g.resources
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.Properties.Resources.resources
+C:\Users\Anananan\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.csproj.GenerateResource.Cache
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\bin\Debug\MinesweeperTest.exe.config
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.exe
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.pdb
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\bin\Debug\MinesweeperTest.exe
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\bin\Debug\MinesweeperTest.pdb
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Cell.g.cs
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MainWindow.g.cs
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Menu.g.cs
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Minesweeper.g.cs
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\App.g.cs
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.cache
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.lref
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Cell.baml
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MainWindow.baml
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Menu.baml
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Minesweeper.baml
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.g.resources
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.Properties.Resources.resources
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.csproj.GenerateResource.Cache
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\BombCounter.g.cs
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\BombCounter.baml
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Timer.g.cs
+C:\Users\Adrian\Dropbox\CETYS\OOP\Proyecto final\MinesweeperTest\obj\Debug\Timer.baml
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\bin\Debug\MinesweeperTest.exe.config
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.exe
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.pdb
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\bin\Debug\MinesweeperTest.exe
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\bin\Debug\MinesweeperTest.pdb
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.csprojAssemblyReference.cache
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\BombCounter.g.cs
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\Cell.g.cs
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\MainWindow.g.cs
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\Menu.g.cs
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\Minesweeper.g.cs
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\Timer.g.cs
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\App.g.cs
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.cache
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest_MarkupCompile.lref
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\BombCounter.baml
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\Cell.baml
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\MainWindow.baml
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\Menu.baml
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\Minesweeper.baml
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\Timer.baml
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.g.resources
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.Properties.Resources.resources
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.csproj.GenerateResource.cache
+C:\Users\Adrian\Dropbox\CETYS\Semestre 2\OOP\Proyecto final\MinesweeperTest\obj\Debug\MinesweeperTest.csproj.CoreCompileInputs.cache

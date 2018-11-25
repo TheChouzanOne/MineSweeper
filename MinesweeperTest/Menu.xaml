@@ -1,0 +1,34 @@
+﻿<Window x:Class="MinesweeperTest.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MinesweeperTest"
+        mc:Ignorable="d"
+        Title="Menu" Height="300" Width="300" Closing="Window_Closing">
+    <Grid>
+        <Button x:Name="button" Content="Easy" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="49,68,0,0" Click="button_Click"/>
+        <Button x:Name="button1" Content="Medium" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="49,116,0,0" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Hard" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="49,160,0,0" Click="button2_Click"/>
+        <Label x:Name="label3" Content="MineSweeper" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="17,33,0,0" FontFamily="Rockwell Extra Bold"/>
+        <Button x:Name="btnCustom" Content="Custom" HorizontalAlignment="Left" Margin="49,199,0,0" VerticalAlignment="Top" Width="75" Click="btnCustom_Click"/>
+        <TextBox x:Name="txtMines" HorizontalAlignment="Left" Height="23" Margin="136,199,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="42"/>
+        <TextBox x:Name="txtWidth" HorizontalAlignment="Left" Height="23" Margin="188,199,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="35"/>
+        <TextBox x:Name="txtHeight" HorizontalAlignment="Left" Height="23" Margin="228,199,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="35"/>
+        <Label x:Name="label" Content="Mines" HorizontalAlignment="Left" Margin="129,31,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Width" HorizontalAlignment="Left" Margin="176,15,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Height" HorizontalAlignment="Left" Margin="223,15,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" Content="10" HorizontalAlignment="Left" Margin="143,62,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1_Copy" Content="9" HorizontalAlignment="Left" Margin="188,62,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2_Copy" Content="9" HorizontalAlignment="Left" Margin="234,62,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy1" Content="40" HorizontalAlignment="Left" Margin="143,113,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1_Copy1" Content="16" HorizontalAlignment="Left" Margin="188,113,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2_Copy1" Content="16" HorizontalAlignment="Left" Margin="234,113,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy2" Content="99" HorizontalAlignment="Left" Margin="143,157,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1_Copy2" Content="30" HorizontalAlignment="Left" Margin="188,157,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2_Copy2" Content="16" HorizontalAlignment="Left" Margin="234,157,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="(9-50)" HorizontalAlignment="Left" Margin="177,31,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4_Copy" Content="(9-30)" HorizontalAlignment="Left" Margin="228,31,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
